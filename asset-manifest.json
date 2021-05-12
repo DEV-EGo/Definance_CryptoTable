@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Definance_CryptoTable/static/css/main.59e53073.chunk.css",
+    "main.js": "/Definance_CryptoTable/static/js/main.e2fe0953.chunk.js",
+    "main.js.map": "/Definance_CryptoTable/static/js/main.e2fe0953.chunk.js.map",
+    "runtime-main.js": "/Definance_CryptoTable/static/js/runtime-main.fe18b1c4.js",
+    "runtime-main.js.map": "/Definance_CryptoTable/static/js/runtime-main.fe18b1c4.js.map",
+    "static/js/2.bd9a3eea.chunk.js": "/Definance_CryptoTable/static/js/2.bd9a3eea.chunk.js",
+    "static/js/2.bd9a3eea.chunk.js.map": "/Definance_CryptoTable/static/js/2.bd9a3eea.chunk.js.map",
+    "index.html": "/Definance_CryptoTable/index.html",
+    "static/css/main.59e53073.chunk.css.map": "/Definance_CryptoTable/static/css/main.59e53073.chunk.css.map",
+    "static/js/2.bd9a3eea.chunk.js.LICENSE.txt": "/Definance_CryptoTable/static/js/2.bd9a3eea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe18b1c4.js",
+    "static/js/2.bd9a3eea.chunk.js",
+    "static/css/main.59e53073.chunk.css",
+    "static/js/main.e2fe0953.chunk.js"
+  ]
+}
